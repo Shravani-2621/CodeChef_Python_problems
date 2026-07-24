@@ -1,0 +1,5 @@
+cake=int(input())
+if cake>=5:
+    print(cake*85)
+else:
+    print(cake*100)
