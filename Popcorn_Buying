@@ -1,0 +1,3 @@
+cash=int(input())
+left=cash-100
+print(left//50)
