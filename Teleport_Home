@@ -1,0 +1,5 @@
+d,t=map(int,input().split())
+if d<=t:
+    print(0)
+else:    
+ print(d-t)
