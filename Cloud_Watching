@@ -1,0 +1,5 @@
+a,b=map(int,input().split())
+if b>=3*a:
+    print('Rain')
+else:
+    print('Dry')
