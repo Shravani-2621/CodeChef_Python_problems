@@ -1,0 +1,5 @@
+a=str(input())
+if a[2]=='n' and a[3]=='t' and a[4]=='a':
+ print('yes')
+else:
+ print('no')
