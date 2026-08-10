@@ -1,0 +1,5 @@
+n=int(input())
+if n*200>1000:
+    print(1000)
+else:
+    print(n*200)
