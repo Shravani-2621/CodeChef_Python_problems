@@ -1,0 +1,5 @@
+a=str(input())
+if a[0]=='s' or a[3]=='s':
+    print('yes')
+else:
+    print("no")
