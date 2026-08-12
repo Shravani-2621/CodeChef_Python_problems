@@ -1,0 +1,5 @@
+s=str(input())
+if 'c' in s and'a'in s and't' in s:
+    print('yes')
+else:
+    print('no')
